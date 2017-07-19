@@ -26,7 +26,7 @@ Same thing as above can be said about these <a href="http://www.conseguridad.org
 
 - **Solcom**
 
-<a href="http://wwwsolcomsl.com" target="_blank">In this example</a> I made the design and also the front end and some back programming (the same technologies explained above plus a little Ajax and php)
+<a href="http://www.solcomsl.com" target="_blank">In this example</a> I made the design and also the front end and some back programming (the same technologies explained above plus a little Ajax and php)
 
 > ![Susana Taranco WIP Portfolio](badge_html.png) ![Susana Taranco WIP Portfolio](badge_css.png) ![Susana Taranco WIP Portfolio](badge_js.png) ![Susana Taranco WIP Portfolio](badge_php.png)
 <br>
