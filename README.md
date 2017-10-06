@@ -10,6 +10,13 @@ While designing my <a href="http://www.susana-taranco.me" target="_blank">person
 > ![Susana Taranco WIP Portfolio](badge_html.png) ![Susana Taranco WIP Portfolio](badge_css.png) ![Susana Taranco WIP Portfolio](badge_js.png)
 <br>
 
+- **Aprende HTML y CSS Avanzado** *Currently work in progress*
+
+This is a very personal project I started to help my friends and acquaintances to improve their knowledge of HTML and CSS and whet it begun to grow I decided to make it public in order to shared it when it was finished. I use open source technologies provided by Github like Jekyll generator and GitHub pages. <a href="https://staranco.github.io/HTML-CSS-avanzado" target="_blank">Aprende HTML & CSS avanzado</a>
+
+> ![Susana Taranco WIP Portfolio](badge_html.png) ![Susana Taranco WIP Portfolio](badge_css.png) ![Susana Taranco WIP Portfolio](badge_js.png)
+<br>
+
 - **Hyundai online catalogs UX definition and development** 
 
 Starting from pdf <a href="http://www.hyundai.es/catalogo/ioniqhibrido.pdf" target="_blank">offline catalogues</a>, the final goal was to make them interactive. My job here was to design the UI according to final user's behaviour and the client's global look and feel. I also developed the catalog, so I was the front-end behind the scenes here, working with HTML5, CSS3, Jquery and regarding the principles of the mobile-first design. <a href="http://www.hyundai.es/catalogo/digital/ioniq" target="_blank">You can check here the online catalog example</a>
