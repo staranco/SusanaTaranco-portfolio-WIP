@@ -17,6 +17,13 @@ This is a very personal project I started to help my friends and acquaintances t
 > ![Susana Taranco WIP Portfolio](badge_html.png) ![Susana Taranco WIP Portfolio](badge_css.png) ![Susana Taranco WIP Portfolio](badge_js.png)
 <br>
 
+- **Nederlia site redesign**
+
+Eventhough I wasn't asked to redesign Nederlia's site, once I was reached by one of their recruiters and had to visit the page to see what Nederlia was and to know some more about them. I found that it was not very direct and the way information was beign shown was not appealing to me, so I decided to give the page not just a simple facelift but a complete ux overhaul. <a href="http://nederlia.com/" target="_blank">Here you can check the actual Nederila site</a> and <a href="https://staranco.github.io/nederlia-redesign/" target="_blank">here is my proposal</a>.
+
+> ![Susana Taranco WIP Portfolio](badge_html.png) ![Susana Taranco WIP Portfolio](badge_css.png) ![Susana Taranco WIP Portfolio](badge_js.png)
+<br>
+
 - **Hyundai online catalogs UX definition and development** 
 
 Starting from pdf <a href="http://www.hyundai.es/catalogo/ioniqhibrido.pdf" target="_blank">offline catalogues</a>, the final goal was to make them interactive. My job here was to design the UI according to final user's behaviour and the client's global look and feel. I also developed the catalog, so I was the front-end behind the scenes here, working with HTML5, CSS3, Jquery and regarding the principles of the mobile-first design. <a href="http://www.hyundai.es/catalogo/digital/ioniq" target="_blank">You can check here the online catalog example</a>
