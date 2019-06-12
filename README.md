@@ -2,14 +2,14 @@
 >🏭 Great and cool links for you to enjoy  **Susana Taranco WIP Portfolio**, created by Susana Taranco.
 
 ## Links list
-
+<!---
 - **Personal website** *Currently work in progress*
 
 While designing my <a href="http://www.susana-taranco.me" target="_blank">personal website</a> (which is "work in progress"), I had complete freedom to choose the elements, color and typography so I'm my own boss and I do what I want. I want it to be an attractive single-page-like website, with a fullscreen video and that cool pink and orange gradient over it: they are my favourite colours and together they express just what I am: passionate, trendy and highly adaptative. A clear, sans-serif  and thin-lined font completes the circle because I like to call myself clear and direct, and that's how I like to be seen.
 
 > ![Susana Taranco WIP Portfolio](badge_html.png) ![Susana Taranco WIP Portfolio](badge_css.png) ![Susana Taranco WIP Portfolio](badge_js.png)
 <br>
-
+--->
 - **Aprende HTML y CSS Avanzado** *Currently work in progress*
 
 This is a very personal project I started to help my friends and acquaintances to improve their knowledge of HTML and CSS and whet it begun to grow I decided to make it public in order to shared it when it was finished. I use open source technologies provided by Github like Jekyll generator and GitHub pages. <a href="https://staranco.github.io/HTML-CSS-avanzado" target="_blank">Aprende HTML & CSS avanzado</a>
